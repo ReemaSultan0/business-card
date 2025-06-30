@@ -1,0 +1,18 @@
+body{
+  margin :20px;
+  text-align: center;
+}
+img{
+  width: 150px;
+}
+.card{
+  padding: 20px;
+  display: flex;
+  justify-content:space-around ;
+  width: 400px;
+  margin:0 auto;
+  background-color: #000814;
+  border-bottom:6px solid #1d3a5a ;
+  color:#e0c671;
+  
+}
